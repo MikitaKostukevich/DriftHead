@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimaryLight">#FF0000</color>
+    <color name="colorAccentLight">#00FF00</color>
+    <color name="textColorPrimaryLight">#000000</color>
+    <color name="textColorSecondaryLight">#666666</color>
+    <color name="windowBackgroundLight">#1f2021</color>
+    <color name="button_dark_background">#CC0000</color>
+    <color name="button_light_background">#FFFFFF</color>
+
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccentDark">#FF000000</color>
+    <color name="textColorPrimaryDark">#FF000000</color>
+    <color name="textColorSecondaryDark">#FF000000</color>
+    <color name="windowBackgroundDark">#FF000000</color>
+</resources>

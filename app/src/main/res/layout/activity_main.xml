@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/windowBackgroundLight"
+    tools:context=".MainActivity">
+
+    <Switch
+        android:id="@+id/switchTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:text="Theme" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/amarante"
+        android:textColor="#fdfdfd"
+        android:layout_gravity="center"
+        android:layout_marginTop="170dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="@string/create_account" />
+
+    <EditText
+        android:id="@+id/userLogin"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_gravity="center"
+        android:inputType="text"
+        android:textColorHint="#6a6a6a"
+        android:textColor="#fdfdfd"
+        android:hint = "@string/input_login"
+
+         />
+
+    <EditText
+        android:id="@+id/userEmail"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_gravity="center"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#6a6a6a"
+        android:textColor="#fdfdfd"
+        android:hint="@string/input_email" />
+
+    <EditText
+        android:id="@+id/userPassword"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_gravity="center"
+        android:inputType="textPassword"
+        android:textColorHint="#6a6a6a"
+        android:textColor="#fdfdfd"
+        android:hint="@string/input_password"/>
+
+    <Button
+        android:id="@+id/buttonReg"
+        android:layout_width="220dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="16dp"
+
+        android:layout_marginTop="30dp"
+        android:text="@string/singUp" />
+
+    <TextView
+        android:id="@+id/linkToAuth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="120dp"
+        android:fontFamily="monospace"
+        android:text="@string/SingIn"
+        android:textColor="#fdfdfd"
+        android:textSize="20sp" />
+
+</LinearLayout>

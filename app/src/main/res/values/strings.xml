@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">DriftHead</string>
+    <string name="create_account">Create account</string>
+    <string name="input_login">Input login</string>
+    <string name="input_email">Input E-mail</string>
+    <string name="input_password">Input password</string>
+    <string name="singUp">Sing UP</string>
+    <string name="SingIn"> Sing In</string>
+    <string name="calendar">Calendar</string>
+    <string name="pilots">Pilots</string>
+    <string name="media">Media</string>
+    <string name="news">News</string>
+    <string name="results">Results</string>
+    <string name="results_2023">Results 2023</string>
+    <string name="results_2022">Results 2022</string>
+    <string name="results_2021">Results 2021</string>
+    <string name="toggle_theme">Change theme</string>
+
+    <string name="Roma_full_name">Kondratenko Roman</string>
+    <string name="Roma_place">Belarus, Minsk</string>
+    <string name="Roma_dateOfBirth">21 may 1983</string>
+    <string name="Roma_text">Current champion of Belarus in drifting, two-time champion of Belarus in drifting (2021-2022), winner of stage 2 of the FIA ​​NEZ DRIFT CHAMPIONSHIP 2021, winner of the EEDC Cup 2021, took part in the RDS GP, current champion of Portugal and the Baltics</string>
+
+    <string name="Denis_full_name">Klischevsky Denis</string>
+    <string name="Denis_place">Belarus, Pinsk</string>
+    <string name="Denis_dateOfBirth">30 june 1980</string>
+    <string name="Denis_text">Belarusian racing driver, Rookie of the Year 2016, bronze medalist of the Belarusian Drifting Championship 2022</string>
+
+    <string name="Anton_full_name">Shenderov Anton</string>
+    <string name="Anton_place">Belarus, Minsk</string>
+    <string name="Anton_dateOfBirth">9 january 1991</string>
+    <string name="Anton_text">Belarusian racing driver, bronze medalist of the Belarusian Drifting Championship 2021, silver medalist of the Sochi Drift Challenge 2019</string>
+
+    <string name="Vlad_full_name">Shubaderov Vladislav</string>
+    <string name="Vlad_place">Belarus, Minsk</string>
+    <string name="Vlad_dateOfBirth">19 january 1996</string>
+    <string name="Vlad_text">Belarusian racing driver, multiple medalist of the Belarusian Drifting Championship and RDS GP</string>
+
+    <string name="Evgeniy_full_name">Milinchuk Evgeniy</string>
+    <string name="Evgeniy_place">Belarus, Minsk</string>
+    <string name="Evgeniy_dateOfBirth">28 november 1986</string>
+    <string name="Evgeniy_text">Belarusian racing driver, silver medalist of the 1st stage of the Belarusian Drifting Championship 2022</string>
+
+    <string name="Pavel_full_name">Kapshay Pavel</string>
+    <string name="Pavel_place">Belarus, Minsk</string>
+    <string name="Pavel_dateOfBirth">10 march 1996</string>
+    <string name="Pavel_text">Belarusian racing driver, silver medalist of the Belarusian Drifting Championship 2023</string>
+
+    <string name="Vova_full_name">Eremin Vladimir</string>
+    <string name="Vova_place">Belarus, Minsk</string>
+    <string name="Vova_dateOfBirth">23 july 1987</string>
+    <string name="Vova_text">Belarusian racing driver, bronze medalist of the 2nd stage of the Belarusian Drifting Championship 2022</string>
+
+    <string name="Vitaliy_full_name">Silivonchik Vitaly</string>
+    <string name="Vitaliy_place">Belarus, Minsk</string>
+    <string name="Vitaliy_dateOfBirth">11 july 1988</string>
+    <string name="Vitaliy_text">Belarusian racing driver, multiple medalist of the Belarusian Drifting Championship in the Pro and Pro2 classes</string>
+
+    <string name="Lexa_full_name">Manchukevich Alexey</string>
+    <string name="Lexa_place">Belarus, Minsk</string>
+    <string name="Lexa_dateOfBirth">28 march 1985</string>
+    <string name="Lexa_text">Belarusian racing driver, winner of the 1st stage of Pro2, multiple medalist of the Belarusian Drifting Championship</string>
+
+    <string name="Kolya_full_name">Litvin Nikolay</string>
+    <string name="Kolya_place">Belarus, Grodno</string>
+    <string name="Kolya_dateOfBirth">17 july 1992</string>
+    <string name="Kolya_text">Belarusian racing driver, vice-champion of the Republic of Belarus in drifting 2021</string>
+
+    <string name="Borya_full_name">Melenkevich Boris</string>
+    <string name="Borya_place">Belarus, Brest</string>
+    <string name="Borya_dateOfBirth">24 мая 1979</string>
+    <string name="Borya_text">Belarusian racing driver</string>
+
+    <string name="Sak_full_name">Sak Sergey</string>
+    <string name="Sak_place">Belarus, Minsk</string>
+    <string name="Sak_dateOfBirth">14 january 1981</string>
+    <string name="Sak_text">Belarusian racing driver, multiple winner of various types of competitions, both in the Republic of Belarus and abroad. Champion of EEDC 2016, two-time champion of the Belarusian Drifting Championship (2016-2017). Vice-champion of EEDC 2017. Vice-champion of Belarus in drifting 2014, silver medalist of the 2nd stage of RDS 2014, two-time winner of the Cup of the Republic of Belarus (2016, 2019), two-time bronze medalist of the Championship of the Republic of Belarus (2015, 2021). Participated in the FIA IDC.</string>
+
+    <string name="Gedeminas_full_name">Leviskas Gediminas</string>
+    <string name="Gedeminas_place">Lithuania, Vilnius</string>
+    <string name="Gedeminas_dateOfBirth">28 febryary 1985</string>
+    <string name="Gedeminas_text">Lithuanian racing driver. Champion of Belarus in drifting 2019, bronze medalist of the Belarusian Drifting Championship 2018</string>
+
+    <string name="Cirba_full_name">Cirba Benediktas</string>
+    <string name="Cirba_place">Lithuania, Vilnius</string>
+    <string name="Cirba_dateOfBirth">16 декабря 1993</string>
+    <string name="Cirba_text">Lithuanian racing driver</string>
+
+    <string name="Valera_full_name">Shevelev Valery</string>
+    <string name="Valera_place">Ukrain, Kiev</string>
+    <string name="Valera_dateOfBirth">15 september 1982</string>
+    <string name="Valera_text">Ukrainian racing driver</string>
+
+    <string name="Artur_full_name">Podluzhny Arthur</string>
+    <string name="Artur_place">Ukrain, Kiev</string>
+    <string name="Artur_dateOfBirth">2 january 1988</string>
+    <string name="Artur_text">Ukrainian racing driver, participant in the famous accident at #DriftLogoisk2020</string>
+
+    <string name="Rostic_full_name">Raragovsky Rostislav</string>
+    <string name="Rostic_place">Ukrain, Kiev</string>
+    <string name="Rostic_dateOfBirth">24 janyary 1987</string>
+    <string name="Rostic_text">Ukrainian racing driver</string>
+
+    <string name="Czar_full_name">Tsaregradtsev Arkady</string>
+    <string name="Czar_place">RF, Krasnoyarsk</string>
+    <string name="Czar_dateOfBirth">5 december 1982</string>
+    <string name="Czar_text">Russian racing driver, Champion of Siberia 2013, 2014, 2016. Champion of RDS GP 2022.</string>
+
+    <string name="Andrey_full_name">Piskarev Andrey</string>
+    <string name="Andrey_place">Belarus, Minsk</string>
+    <string name="Andrey_dateOfBirth">10 september 1982</string>
+    <string name="Andrey_text">Belarusian racing driver, vice-champion of Belarus in drifting 2018. Participant in the fire at DriftLogoisk 2020</string>
+
+    <string name="Ivanula_full_name">Ivanauskas Gediminas</string>
+    <string name="Ivanula_place">Lithuania, Vilnius</string>
+    <string name="Ivanula_dateOfBirth">5 june 1988</string>
+    <string name="Ivanula_text">Lithuanian racing driver</string>
+
+    <string name="Gocha_full_name">Chivchan Georgy</string>
+    <string name="Gocha_place">RF, Krasnoyarsk</string>
+    <string name="Gocha_dateOfBirth">21 january 1986</string>
+    <string name="Gocha_text">Russian racing driver, Siberian champion 2012, Russian champion (2011, 2013, 2014), Japanese D1GP 2013 championship driver, D1GP 2013-2015 participant, RDS GP champion 2017-2019, FIA Intercontinental Drifting Cup champion 2018-2019.</string>
+
+    <string name="Nick_full_name">Shikov Nikita</string>
+    <string name="Nick_place">RF, Moskow</string>
+    <string name="Nick_dateOfBirth">13 may 1986</string>
+    <string name="Nick_text">Russian racing driver, two-time RDS GP vice-champion</string>
+
+    <string name="Golalex_full_name">Golovnya Alexey</string>
+    <string name="Golalex_place">Ukrain, Kiev</string>
+    <string name="Golalex_dateOfBirth">5 июня 1988</string>
+    <string name="Golalex_text">Ukrainian racing driver</string>
+
+    <string name="Legend_full_name">Nagula Dmitry</string>
+    <string name="Legend_place">Belarus, Grondo</string>
+    <string name="Legend_dateOfBirth">16 august 1988</string>
+    <string name="Legend_text">Belarusian racing driver, pioneer of Belarusian drift and drag racing. 4-time champion of the Republic of Belarus in drifting and drag racing, champion of Ukraine in drag racing and silver medalist of the Ukrainian Drifting Championship. Winner of 4th place at the World Drifting Championship 2019 in Rome</string>
+
+    <string name="DriftRaubich23_Name">1st stage of the Belarusian Drifting Championship</string>
+    <string name="DriftRaubich23_Date">28 may 2023</string>
+    <string name="DriftRaubich23_Place">RCPO Raubichi, Raubichi</string>
+
+    <string name="DriftStayki23_Name">2nd stage of the Belarusian Drifting Championship</string>
+    <string name="DriftStayki23_Date">18 july 2023</string>
+    <string name="DriftStayki23_Place">RSTC DOSAAF Staiki, Prilesye</string>
+
+    <string name="DriftLogoisk23_Name">3rd stage of the Belarusian Drifting Championship</string>
+    <string name="DriftLogoisk23_Date">30 july 2023</string>
+    <string name="DriftLogoisk23_Place">GSOC Logoisk, Logoisk</string>
+
+    <string name="DriftZarya23_Name">4th stage of the Belarusian Drifting Championship</string>
+    <string name="DriftZarya23_Date">9-10 september 2023</string>
+    <string name="DriftZarya23_Place">RSTC DOSAAF Staiki, Prilesye</string>
+
+    <string name="photoone">Drift Raubichi - Qualifying races for Finil Betera of the Belarusian Drifting Championship 2022</string>
+    <string name="phototwo">Drift Pinsk - TOP-8 final paired races IV stage of the Betera Belarusian Drifting Championship 2022</string>
+    <string name="photothree">Parimatch EEDC 2021 - TOP32 - Grinchuk and Rybin comment</string>
+    <string name="photofour">IV stage of Parimatch of the Belarus Drifting Championship 2021 - Night drift in Logoisk DriftLogoisk</string>
+    <string name="photofive">NEZ DRIFT Belarus - August 29, Stayki - Grinya comments</string>
+
+    <string name="driftweekend">Drift weekend in Minsk</string>
+    <string name="driftinpro">Change of leader and qualification for elimination: drift in the PRO class</string>
+    <string name="fourstage">#DriftZarya IV stage of the Betera Belarusian Drifting Championship</string>
+    <string name="driftzarya">Double drift in Stayki – this weekend</string>
+    <string name="zaryaone">The Driftzarya racing weekend and car exhibition-fair will be held in Stayki</string>
+
+    <string name="Gavrilenko_full_name">Gavrilenko Arthur</string>
+    <string name="Vlasovec_full_name">Vlasovec Alexander</string>
+    <string name="Skuratov_full_name">Shkuratov Alexey</string>
+    <string name="Spsenisin_full_name">Pshenitsyn Alexander</string>
+    <string name="Timoscyk_full_name">Timoscyk Bogdan</string>
+    <string name="Drift_full_name">Driftovsky Yuri</string>
+    <string name="Andreev_full_name">Andreev Konstantin</string>
+    <string name="Shaskov_full_name">Shashkov Kirill</string>
+    <string name="Turevich_full_name">Turevich Ilya</string>
+    <string name="Panglish_full_name">Panglish Roman</string>
+    <string name="Augustovich_full_name">Augustovich Igor</string>
+    <string name="Rak_full_name">Rak Yuri</string>
+    <string name="Lobkov_full_name">Lobkov Sergey</string>
+    <string name="Gorkovenko_full_name">Gorkovenko Nikolay</string>
+    <string name="Karelin_full_name">Karelin Alexey</string>
+    <string name="Vishnya_full_name">Vishnevsky Alexey</string>
+    <string name="Pak_full_name">Pak Mikhail</string>
+    <string name="Dsesyz_full_name">Dzezhits Fedor</string>
+    <string name="Pozdnyakov_full_name">Pozdnyakov Anton</string>
+    <string name="Uxnevich_full_name">Yukhnevich Evgeniy</string>
+    <string name="Leitis_full_name">Leitis Artyom</string>
+    <string name="Vodeiko_full_name">Vodeiko Sergey</string>
+    <string name="Kuprianchik_full_name">Kuprianchik Roman</string>
+    <string name="Chevichelov_full_name">Chevichelov Fedor</string>
+
+</resources>

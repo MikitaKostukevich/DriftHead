@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/windowBackgroundLight"
+    android:paddingBottom="20dp"
+    android:layout_marginBottom="20dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/pilotListImage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitCenter"
+        android:clickable="true"
+        app:srcCompat="@drawable/anton" />
+
+    <TextView
+        android:id="@+id/pilotListTitle"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle = "bold"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/pilotListPlace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:text="TextView"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/pilotListDateOfBirth"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textStyle = "bold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/pilotListComand"
+        android:paddingHorizontal="20dp"
+        android:textColor="@color/white"
+        android:paddingVertical="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textStyle = "bold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/pilotListText"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textStyle = "bold"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/pilotListAuto"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle = "bold"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/pilotListLink"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="TextView" />
+
+
+</LinearLayout>

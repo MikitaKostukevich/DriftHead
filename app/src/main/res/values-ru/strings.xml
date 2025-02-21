@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">DriftHead</string>
+    <string name="create_account">Создайте аккаунт</string>
+    <string name="input_login">Введите логин</string>
+    <string name="input_email">Введите E-mail</string>
+    <string name="input_password">Введите пароль</string>
+    <string name="singUp">Зарегестрироваться</string>
+    <string name="SingIn">Войти</string>
+    <string name="calendar">Календарь</string>
+    <string name="pilots">Пилоты</string>
+    <string name="media">Медиа</string>
+    <string name="news">Новости</string>
+    <string name="results">Результаты</string>
+    <string name="results_2023">Результаты 2023</string>
+    <string name="results_2022">Результаты 2022</string>
+    <string name="results_2021">Результаты 2021</string>
+    <string name="toggle_theme">Переключить тему</string>
+
+    <string name="Roma_full_name">Кондратенко Роман</string>
+    <string name="Roma_place">Беларусь, Минск</string>
+    <string name="Roma_dateOfBirth">21 мая 1983</string>
+    <string name="Roma_text">Действующий чемпион Беларуси по дрифтингу, двухкратный  чемпион Беларуси по дрифтингу(2021-2022), победитель 2 этапа FIA NEZ DRIFT CHAMPIONSHIP 2021, обладатель кубка EEDC 2021, принимал участие в RDS GP, действующим чемпион Португалии и Прибалтики</string>
+
+    <string name="Denis_full_name">Клищевский Денис</string>
+    <string name="Denis_place">Беларусь, Пинск</string>
+    <string name="Denis_dateOfBirth">30 июня 1980</string>
+    <string name="Denis_text">Белорусский автогонщик, Новичок года 2016, бронзовый призёр Чемпионата Беларуси по дрифтингу 2022</string>
+
+    <string name="Anton_full_name">Шендеров Антон</string>
+    <string name="Anton_place">Беларусь, Минск</string>
+    <string name="Anton_dateOfBirth">9 января 1991</string>
+    <string name="Anton_text">Белорусский автогонщик, бронзовый призёр Чемпионата Беларуси по дрифтингу 2021, серебрянный медалист Sochi Drift Challeng 2019</string>
+
+    <string name="Vlad_full_name">Шубадёров Владислав</string>
+    <string name="Vlad_place">Беларусь, Минск</string>
+    <string name="Vlad_dateOfBirth">19 января 1996</string>
+    <string name="Vlad_text">Белорусский автогонщик, многократный медалист Чемпионата Беларуси по дрифтингу и RDS GP</string>
+
+    <string name="Evgeniy_full_name">Милинчук Евгений</string>
+    <string name="Evgeniy_place">Беларусь, Минск</string>
+    <string name="Evgeniy_dateOfBirth">28 ноября 1986</string>
+    <string name="Evgeniy_text">Белорусский автогонщик, серебрянный призёр 1-ого этапа Чемпионата Беларуси по дрифтингу 2022</string>
+
+    <string name="Pavel_full_name">Капшай Павел</string>
+    <string name="Pavel_place">Беларусь, Минск</string>
+    <string name="Pavel_dateOfBirth">10 марта 1996</string>
+    <string name="Pavel_text">Белорусский автогонщик, серебрянный призёр Чемпионата Беларуси по дрифтингу 2023</string>
+
+    <string name="Vova_full_name">Ерёмин Владимир</string>
+    <string name="Vova_place">Беларусь, Минск</string>
+    <string name="Vova_dateOfBirth">23 июля 1987</string>
+    <string name="Vova_text">Белорусский автогонщик, бронзовый призёр 2 этапа Чемпионата Беларуси по дрифтингу 2022</string>
+
+    <string name="Vitaliy_full_name">Силивончик Виталий</string>
+    <string name="Vitaliy_place">Беларусь, Минск</string>
+    <string name="Vitaliy_dateOfBirth">11 июля 1988</string>
+    <string name="Vitaliy_text">Белорусский автогонщик, многократый медалист Чемпионата Беларуси по дрифтингу в классах Pro и Pro2</string>
+
+    <string name="Lexa_full_name">Манчукевич Алексей</string>
+    <string name="Lexa_place">Беларусь, Минск</string>
+    <string name="Lexa_dateOfBirth">28 марта 1985</string>
+    <string name="Lexa_text">Белорусский автогонщик, победитель 1-го этапа Pro2, многократный медалист Чемпионата РБ по дрифтигну</string>
+
+    <string name="Kolya_full_name">Литвин Николай</string>
+    <string name="Kolya_place">Беларусь, Гродно</string>
+    <string name="Kolya_dateOfBirth">17 июля 1992</string>
+    <string name="Kolya_text">Белорусский автогонщик, вице-чемпион РБ по дрифтингу 2021</string>
+
+    <string name="Borya_full_name">Меленкевич Борис</string>
+    <string name="Borya_place">Беларусь, Брест</string>
+    <string name="Borya_dateOfBirth">24 мая 1979</string>
+    <string name="Borya_text">Белорусский автогонщик</string>
+
+    <string name="Sak_full_name">Сак Сергей</string>
+    <string name="Sak_place">Беларусь, Минск</string>
+    <string name="Sak_dateOfBirth">14 января 1981</string>
+    <string name="Sak_text">Белорусский автогонщик, неоднократный призёр различных видов соревнований, как в РБ, так и за её пределами. Чемпион EEDC 2016, двухкратный чемпион Чемпионата Беларуси по дрифтигну(2016-2017). Вице-чемпион EEDC 2017. Вице-чемпион Беларуси по дрифтингу 2014, серебрянный призёр 2-ого этапа RDS 2014, двухкратный призёр Кубка РБ(2016, 2019), двухкратный бронзовый призёр чемпионата РБ(2015, 2021). Принимал участие в FIA IDC.</string>
+
+    <string name="Gedeminas_full_name">Leviskas Gediminas</string>
+    <string name="Gedeminas_place">Литва, Вильнюс</string>
+    <string name="Gedeminas_dateOfBirth">28 февраля 1985</string>
+    <string name="Gedeminas_text">Литовский автогощик. Чемпион Беларуси по дрифтингу 2019 года, бронзовый призёр Чемпионата Беларуси по дрифтингу 2018 года</string>
+
+    <string name="Cirba_full_name">Cirba Benediktas</string>
+    <string name="Cirba_place">Литва, Вильню</string>
+    <string name="Cirba_dateOfBirth">16 декабря 1993</string>
+    <string name="Cirba_text">Литовский автогонщик</string>
+
+    <string name="Valera_full_name">Шевелёв Валерий</string>
+    <string name="Valera_place">Украина, Киев</string>
+    <string name="Valera_dateOfBirth">15 сентября 1982</string>
+    <string name="Valera_text">Украинский автогонщик</string>
+
+    <string name="Artur_full_name">Подлужный Артур</string>
+    <string name="Artur_place">Украина, Киев</string>
+    <string name="Artur_dateOfBirth">2 января 1988</string>
+    <string name="Artur_text">Украинский автогонщик, участник знаменитой аварии на #DriftLogoisk2020</string>
+
+    <string name="Rostic_full_name">Рараговский Ростислав</string>
+    <string name="Rostic_place">Украина, Киев</string>
+    <string name="Rostic_dateOfBirth">24 января 1987</string>
+    <string name="Rostic_text">Украинский автогонщик</string>
+
+    <string name="Czar_full_name">Цареградцев Аркадий</string>
+    <string name="Czar_place">РФ, Красноярск</string>
+    <string name="Czar_dateOfBirth">5 декабря 1982</string>
+    <string name="Czar_text">Российский автогонщик, Чемпион Сибири 2013, 2014, 2016. Чемпион RDS GP 2022.</string>
+
+    <string name="Andrey_full_name">Пискарёв Андрей</string>
+    <string name="Andrey_place">Беларусь, Минск</string>
+    <string name="Andrey_dateOfBirth">10 сентября 1982</string>
+    <string name="Andrey_text">Белорусский автогонщик, вице-чемпион Беларуси по дрифтингу 2018. Участник пожара на DriftLogoisk 2020</string>
+
+    <string name="Ivanula_full_name">Ivanauskas Gediminas</string>
+    <string name="Ivanula_place">Литва, Вильнюс</string>
+    <string name="Ivanula_dateOfBirth">5 июня 1988</string>
+    <string name="Ivanula_text">Литовский автогонщик</string>
+
+    <string name="Gocha_full_name">Чивчан Георгий</string>
+    <string name="Gocha_place">РФ, Красноярск</string>
+    <string name="Gocha_dateOfBirth">21 января 1986</string>
+    <string name="Gocha_text">Российский автогонщик, чемпион Сибири 2012, чемпион РФ(2011, 2013, 2014), пилот японского чемпионта D1GP 2013, участник D1GP 2013-2015, чемпион RDS GP 2017-2019, чемпион FIA Intercontinental Drifting Cup 2018-2019.</string>
+
+    <string name="Nick_full_name">Шиков Никита</string>
+    <string name="Nick_place">РФ, Москва</string>
+    <string name="Nick_dateOfBirth">13 мая 1986</string>
+    <string name="Nick_text">Российский автогонщик, двухкратный вице-чемпион RDS GP</string>
+
+    <string name="Golalex_full_name">Головня Алексей</string>
+    <string name="Golalex_place">Украина, Киев</string>
+    <string name="Golalex_dateOfBirth">5 июня 1988</string>
+    <string name="Golalex_text">Украинский автогонщик</string>
+
+    <string name="Legend_full_name">Нагула Дмитрий</string>
+    <string name="Legend_place">Беларусь, Гродно</string>
+    <string name="Legend_dateOfBirth">16 августа 1988</string>
+    <string name="Legend_text">Белорусский автогонщик, первопроходец белорусского дрифта и драг-рейсинга. 4-х кратный чемпион РБ в дрифте и драг-рейсинге, чемпион Украины по драг-рейсингу и серебрянный медалист чемпионата Украины по дрифтингу. Обладатель 4-го места Чемпионата мира по дрифтингу 2019 в Риме </string>
+
+    <string name="DriftRaubich23_Name">1-ый этап Чемпионата Беларуси по дрифтингу</string>
+    <string name="DriftRaubich23_Date">28 мая 2023</string>
+    <string name="DriftRaubich23_Place">РЦПО Раубичи, Раубичи</string>
+
+    <string name="DriftStayki23_Name">2-ой этап Чемпионата Беларуси по дрифтингу</string>
+    <string name="DriftStayki23_Date">18 июля 2023</string>
+    <string name="DriftStayki23_Place">РСТЦ ДОСААФ Стайки, Прилесье</string>
+
+    <string name="DriftLogoisk23_Name">3-ий этап Чемпионата Беларуси по дрифтингу</string>
+    <string name="DriftLogoisk23_Date">30 июля 2023</string>
+    <string name="DriftLogoisk23_Place">ГСОК Логойск, Логойск</string>
+
+    <string name="DriftZarya23_Name">4-ый этап Чемпионата Беларуси по дрифтингу</string>
+    <string name="DriftZarya23_Date">9-10 сентября 2023</string>
+    <string name="DriftZarya23_Place">РСТЦ ДОСААФ Стайки, Прилесье</string>
+
+    <string name="photoone">Drift Raubichi - Квалификационные заезды Финила Betera Чемпионата Беларуси по дрифтингу 2022</string>
+    <string name="phototwo">Drift Pinsk - ТОП-8 финальные парные заезды IV этап Betera Чемпионата Беларуси по дрифтингу 2022</string>
+    <string name="photothree">Parimatch EEDC 2021 - TOP32 - комментируют Гринчук и Рыбин</string>
+    <string name="photofour">IV этап Parimatch Чемпионата Беларуси по дрифтингу 2021 - Ночной дрифт в Логойске DriftLogoisk</string>
+    <string name="photofive">NEZ DRIFT Беларусь - 29 августа, Стайки - комментирует Гриня</string>
+
+    <string name="driftweekend">Дрифт-выходные в Минске</string>
+    <string name="driftinpro">Смена лидера и квалификация на выбывание: дрифт в классе ПРО</string>
+    <string name="fourstage">#DriftZarya IV этап Betera Чемпионата Беларуси по дрифтингу</string>
+    <string name="driftzarya">Двойной дрифт в Стайках – уже в эти выходные</string>
+    <string name="zaryaone">Гоночный уик-энд Driftzarya и выставка-ярмарка автомобилей пройдёт в Стайках</string>
+
+    <string name="Gavrilenko_full_name">Гавриленко Артур</string>
+    <string name="Vlasovec_full_name">Власовец Александр</string>
+    <string name="Skuratov_full_name">Шкуратов Алексей</string>
+    <string name="Spsenisin_full_name">Пшеницын Александр</string>
+    <string name="Timoscyk_full_name">Тимощук Богдан</string>
+    <string name="Drift_full_name">Дрифтовский Юрий</string>
+    <string name="Andreev_full_name">Андреев Константин</string>
+    <string name="Shaskov_full_name">Шашков Кирилл</string>
+    <string name="Turevich_full_name">Туревич Илья</string>
+    <string name="Panglish_full_name">Панглиш Роман</string>
+    <string name="Augustovich_full_name">Августинович Игорь</string>
+    <string name="Rak_full_name">Рак Юрий</string>
+    <string name="Lobkov_full_name">Лобков Сергей</string>
+    <string name="Gorkovenko_full_name">Горковенко Николай</string>
+    <string name="Karelin_full_name">Карелин Алексей</string>
+    <string name="Vishnya_full_name">Вишневский Алексей</string>
+    <string name="Pak_full_name">Пак Михаил</string>
+    <string name="Dsesyz_full_name">Дзежиц Фёдор</string>
+    <string name="Pozdnyakov_full_name">Поздняков Антон</string>
+    <string name="Uxnevich_full_name">Юхневич Евгений</string>
+    <string name="Leitis_full_name">Лейтис Артём</string>
+    <string name="Vodeiko_full_name">Водейко Сергей</string>
+    <string name="Kuprianchik_full_name">Куприянчик Роман</string>
+    <string name="Chevichelov_full_name">Чевычелов Фёдор</string>
+
+</resources>
